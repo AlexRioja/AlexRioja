@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @AlexRioja
-- 👀 I’m interested in AI, Computer Vision and Mobile Development
-- 🌱 I’m currently learning Flutter!
-- 💞️ I’m looking to collaborate on any AI related problems
-- 📫 You can reach me by writting me to alexrioja98@gmail.com
-- 📎 You can access my profile through https://www.linkedin.com/in/alejandro-martinez-14b580209
-- ☕ Also you can colaborate and help me through https://www.buymeacoffee.com/alexrioja
+Spanish:
+- 👋 Hola, soy @AlexRioja, Ingeniero de Telecomunicaciones con especialización en Telemática y amante de la programación y el código libre!
+- 👀 Mis principales intereses son la Inteligencia Artificial, especialmente cuando se aplica a la medicina, y el desarrollo movil
+- 🌱 Actualmente estoy aprendiendo Flutter (desarrollo de aplicaciones multiplataforma) y profundizando mis conocimientos en Inteligencia Artificial
+- 💞️ Encantado de colaborar en todo tipo de proyectos!
+- 📫 Puedes contactar conmigo a través de la siguiente dirección -->  alexrioja98@gmail.com
+- 📎 También puedes acceder a mi Linkedin https://www.linkedin.com/in/alejandro-martinez-14b580209
+- ☕ Y ayudarme colaborando y comprandome un café para poder seguir trabajando https://www.buymeacoffee.com/alexrioja
+
 
 <!---
 AlexRioja/AlexRioja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
