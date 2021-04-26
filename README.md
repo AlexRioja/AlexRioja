@@ -4,7 +4,7 @@ Spanish:
 - 🌱 Actualmente estoy aprendiendo Flutter (desarrollo de aplicaciones multiplataforma) y profundizando mis conocimientos en Inteligencia Artificial
 - 💞️ Encantado de colaborar en todo tipo de proyectos!
 - 📫 Puedes contactar conmigo a través de la siguiente dirección -->  alexrioja98@gmail.com
-- 📎 También puedes acceder a mi Linkedin https://www.linkedin.com/in/alejandro-martinez-14b580209
+- 📎 También puedes acceder a mi Linkedin https://www.linkedin.com/in/alejandro-mart%C3%ADnez-de-ternero-ruiz-14b580209/
 - ☕ Y ayudarme colaborando y comprandome un café para poder seguir trabajando https://www.buymeacoffee.com/alexrioja
 
 
